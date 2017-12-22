@@ -434,7 +434,7 @@
 				DEVELOPMENT_TEAM = 8ZQEMVF63J;
 				INFOPLIST_FILE = PhoneTime/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.PhoneTime.a.PhoneTime;
+				PRODUCT_BUNDLE_IDENTIFIER = com.PhoneTime.a;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -448,7 +448,7 @@
 				DEVELOPMENT_TEAM = 8ZQEMVF63J;
 				INFOPLIST_FILE = PhoneTime/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.PhoneTime.a.PhoneTime;
+				PRODUCT_BUNDLE_IDENTIFIER = com.PhoneTime.a;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
